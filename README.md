@@ -1,5 +1,8 @@
 # Example microservice app
 
+Check this great article by Ivan on medium:
+https://medium.com/@ikirichenko/distributed-tracing-in-practice-ad477343ab07
+
 This is an example of web application comprising of several components communicating to each other. In other words, this is an example of microservice app. Why is it better than many other examples? Well, because these microservices are written in different languages. This approach gives you flexibility for running experiments in polyglot environment.
 
 The app itself is a simple TODO app that additionally authenticates users. I planned to add some admin functionality, but decided to cut the scope and add it later if needed.
